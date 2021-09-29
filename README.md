@@ -1,0 +1,2 @@
+# HawiBot
+Musicbot for Discord
